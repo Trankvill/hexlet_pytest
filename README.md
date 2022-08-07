@@ -1,1 +1,1 @@
-![tests](https://github.com/Trankvill/hexlet_pytest/workflows/tests/badge.svg)]
+![CI](https://github.com/Trankvill/hexlet_pytest/actions/workflows/tests.yml)
